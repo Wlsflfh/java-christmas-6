@@ -1,2 +1,4 @@
-package christmas.message;public class ExceptionMessage {
+package christmas.message;
+
+public class ExceptionMessage {
 }
